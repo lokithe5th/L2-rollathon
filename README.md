@@ -39,3 +39,5 @@ Issue tokens on submission of data, require tokens on the request of the data.
 Token economics are incentives to encourage or discourage certain behaviours. In the case of SuppDApp, the incentive is for suppliers/service providers to submit their data, for which they are rewarded in tokens. These ERC20 tokens can then be swapped on DEXes. Verification of data on chain by supply-chain participants requires SuppDApp tokens, which can be obtained through trade or from suppliers through purchase or agreements.  
 
 This token economic model allows for participants using the protocol to store data to be rewarded with tokens, which can then be swapped to offset the cost of submitting their data.  
+
+The hope would be for all the participants in the supply-chain to participate, meaning that upstream/downstream participants who also commit data to the chain for verification can use their earned tokens to access the project services without the need for swapping on a DEX. This incentivises enterprise/commercial adoption, but with the added benefit of allowing trustless access to data verification by the end-user, as long as they have the required tokens.
